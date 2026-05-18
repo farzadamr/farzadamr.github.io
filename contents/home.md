@@ -8,5 +8,5 @@ Email: amirifarzad2002@yahoo.com
 B.E., Software Engineering, Bozorgmehr University of Qaenat, 2022—2026.
 
 #### Research Interests
-Operating Systems, Software Architectures
+Operating Systems, Software Performance, Performance Engineering
 
